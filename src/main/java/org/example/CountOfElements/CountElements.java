@@ -1,4 +1,4 @@
-package org.example.ContOfElements;
+package org.example.CountOfElements;
 
 import java.util.ArrayList;
 import java.util.HashMap;
