@@ -1,4 +1,4 @@
-package org.example.CountOfElements;
+package org.example.Java_Collections.CustomFilter.CountOfElements;
 
 import java.util.ArrayList;
 import java.util.HashMap;

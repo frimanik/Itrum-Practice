@@ -1,4 +1,4 @@
-package org.example.CustomFilter;
+package org.example.Java_Collections.CustomFilter.CustomFilter;
 
 @FunctionalInterface
 public interface Filter {

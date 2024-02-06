@@ -1,4 +1,4 @@
-package org.example.StringBuilderImplementation;
+package org.example.Java_Core.StringBuilderImplementation;
 
 import java.util.ArrayList;
 import java.util.Arrays;
